@@ -5,3 +5,9 @@ This is a demo project created to understand and practice GitHub workflows, incl
 
 ---
 ## ✨ Features
+- Basic project structure
+- GitHub repository management
+- README documentation practice
+- Version control using Git
+
+---
